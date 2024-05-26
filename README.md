@@ -3,7 +3,7 @@
 
 Melobyte is a decentralised platform built on the Stellar blockchain powered by Soroban that focuses on protecting and decentralising music intellectual property. By allowing artists to upload and mint parts of their songs as royalty-bearing tokens, it ensures their creations are protected while offering fans a unique opportunity to invest directly in these musical assets. The integration with Soroban ensures fast, secure, and transparent transactions, providing an efficient solution to the challenges traditionally faced by music creators in an evolving digital landscape.
 
-<img width="1440" alt="Screenshot 2023-09-17 at 15 58 40" src="https://github.com/ptdatta/soroban_melobyte/assets/22000925/fec1f663-78f3-4093-82a2-bcca0af8aa54">
+![Screenshot from 2024-05-26 23-12-07](https://github.com/ptdatta/soroban_melobyte/assets/94271200/e3f800b9-cedd-4859-a4cb-f852afeac1bd)
 
 ## Project Goal
 
@@ -112,29 +112,15 @@ export REACT_APP_WEB3_STORAGE=[TOKEN]
 ```
 
 
-# Images
-## Invoking the function and approving the mint transaction:
-<img width="1440" alt="Screenshot 2023-09-17 at 15 51 48" src="https://github.com/ptdatta/soroban_melobyte/assets/22000925/4254393d-f8ce-4186-8f65-ee5f18b319ad">
+# DEMO
 
-## The NFT marketplace displaying the song assets for sale:
-<img width="1440" alt="Screenshot 2023-09-17 at 15 58 32" src="https://github.com/ptdatta/soroban_melobyte/assets/22000925/552cebc0-710a-4242-b0b0-706044a1e25a">
 
-## The creator upload page where the metadata gets uploaded:
-<img width="1440" alt="Screenshot 2023-09-17 at 15 59 54" src="https://github.com/ptdatta/soroban_melobyte/assets/22000925/53beb298-4b64-4396-9bcb-eb2c862a1643">
-
-## The track waveform and the unique fingerprint ID:
-<img width="1440" alt="Screenshot 2023-09-17 at 16 00 12" src="https://github.com/ptdatta/soroban_melobyte/assets/22000925/64b938e6-1e2f-44d2-94f1-ad64d70d13a4">
-
-## The track waveform with the first 15 seconds selected as the introduction to be minted:
-<img width="1440" alt="Screenshot 2023-09-17 at 16 00 35" src="https://github.com/ptdatta/soroban_melobyte/assets/22000925/789a9ee5-5f1e-4ec9-a136-7ba75b54ec40">
-
-## Uploading the stem files, which act as the proof of creation:
-<img width="1440" alt="Screenshot 2023-09-17 at 16 00 45" src="https://github.com/ptdatta/soroban_melobyte/assets/22000925/da8a4a46-e648-431f-899a-47ee7db050e4">
+https://github.com/ptdatta/soroban_melobyte/assets/94271200/0df652f5-3812-455a-a385-1d02f81fc67e
 
 
 # MIT license 
 MIT License
-Copyright (c) 2023 Jeevan Jutla
+Copyright (c) 2024 Parthib Datta
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
 
